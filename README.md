@@ -6,6 +6,7 @@
 - Rectangle
 - VS Code
 - proton suite
+- joplin
 
 # Privacy Poicies
 
