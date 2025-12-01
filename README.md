@@ -7,6 +7,7 @@
 - VS Code
 - proton suite
 - joplin
+- startship bash prompt
 
 # Privacy Poicies
 
