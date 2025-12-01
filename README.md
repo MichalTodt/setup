@@ -5,6 +5,7 @@
 - brew
 - Rectangle
 - VS Code
+- proton suite
 
 # Privacy Poicies
 
